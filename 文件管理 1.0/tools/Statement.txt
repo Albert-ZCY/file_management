@@ -1,0 +1,3 @@
+Statement:
+  All software copyrights and patent rights in the "tools" directory belong to the original developer and have no relation with this software's developer. The copyright and patent rights of all documents under this catalogue are permanently effective in the laws of any country or locality.
+                                                                                by Developer
